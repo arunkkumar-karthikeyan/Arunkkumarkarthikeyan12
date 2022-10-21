@@ -1,5 +1,5 @@
-:link: **Hi there!:wave:** 
-
+**Hi there!:wave:** 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I'm Arun, a Big Data Analytics Student At IESEG School of Management in Lille.
 
