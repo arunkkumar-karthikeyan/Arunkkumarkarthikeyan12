@@ -15,7 +15,7 @@ I'm Arun, a Big Data Analytics Student At IESEG School of Management in Lille.
 
 💡 **Core Competencies** 💡
 
-* Tools used so far in projects: SQL, Python, Tableau, R
+* Tools used so far in projects: SQL, Python, Tableau, R,SAS
 
 * Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
