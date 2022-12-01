@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/115185834/205046989-7074e9d4-e881-4d44-b58f-5e4dce9df1ae.gif" width=80% height=10%><p align="center"> 
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/115185834/205046989-7074e9d4-e881-4d44-b58f-5e4dce9df1ae.gif" width=80% height=10%>
+</p>
 
 **Hi there!:wave:** 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
