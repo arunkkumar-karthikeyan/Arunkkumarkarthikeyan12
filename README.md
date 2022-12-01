@@ -15,7 +15,7 @@ I'm Arun, a Big Data Analytics Student At IESEG School of Management in Lille.
 
 * 📝 Basic knoweldge on SQL, Python, R and Tableau. 
 
-* :mortar_board:  Tableau Desktop Specialist Certified, PCEP - Certified Entry Level Python Programmer
+* 🔰 Tableau Desktop Specialist Certified, PCEP - Certified Entry Level Python Programmer
 
 💡 **Languages & Tools:** 💡
 
@@ -31,7 +31,7 @@ I'm Arun, a Big Data Analytics Student At IESEG School of Management in Lille.
 
 * 🌱 I'm currently learning Deep Learning and algorithms
 
-* Course: Master in Big Data Analytics at IESEG School of Management, Lille
+* :mortar_board: Course: Master in Big Data Analytics at IESEG School of Management, Lille
 
 🙌🏻 **Where to find me**
 
