@@ -1,3 +1,4 @@
+![code](https://user-images.githubusercontent.com/115185834/205046989-7074e9d4-e881-4d44-b58f-5e4dce9df1ae.gif)
 **Hi there!:wave:** 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,10 +18,10 @@ I'm Arun, a Big Data Analytics Student At IESEG School of Management in Lille.
 
 ⚡️ **Currently** ⚡️
 
-* Learning Deep Learning 
+* I'm currently learning Deep Learning and algorithms
 
 * Course: Master in Big Data Analytics at IESEG School of Management, Lille
 
-🙌🏻 **Connect with Me**
+🙌🏻 **Where to find me**
 
 * 📞 [LinkedIn](https://www.linkedin.com/in/arunkkumar-karthikeyan/)
