@@ -29,7 +29,7 @@ I'm Arun, a Big Data Analytics Student At IESEG School of Management in Lille.
 
 ⚡️ **Currently** ⚡️
 
-* I'm currently learning Deep Learning and algorithms
+* 🌱 I'm currently learning Deep Learning and algorithms
 
 * Course: Master in Big Data Analytics at IESEG School of Management, Lille
 
