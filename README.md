@@ -25,6 +25,4 @@ I'm Arun, a Big Data Analytics Student At IESEG School of Management in Lille.
 
 🙌🏻 **Where to find me**
 
-* <svg height="30" width="100" xmlns:xlink=“http://www.w3.org/1999/xlink">
- <a xlink:href="www.linkedin.com/in/arunkkumar-karthikeyan/" target="__blank"><text x="0" y="15" fill="black">LinkedIn!</text></a>
-</svg>
+* https://www.linkedin.com/in/arunkkumar-karthikeyan/
