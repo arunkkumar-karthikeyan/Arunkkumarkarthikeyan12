@@ -19,7 +19,7 @@ I'm Arun, a Big Data Analytics Student At IESEG School of Management in Lille.
 
 💡 **Languages & Tools:** 💡
 
-<img src="https://user-images.githubusercontent.com/115185834/205054069-7c5ef895-d746-416b-8abe-0a41798a5128.png" width=70 height=70> <img src="https://user-images.githubusercontent.com/115185834/205054103-176378a3-d84e-4f08-893f-766afdf4a121.png" width=70 height=80> <img src="https://user-images.githubusercontent.com/115185834/205057028-6a712813-dec3-4ee0-87c8-2f6849ee7407.png" width=70 height=80>
+<img src="https://user-images.githubusercontent.com/115185834/205054069-7c5ef895-d746-416b-8abe-0a41798a5128.png" width=70 height=70> <img src="https://user-images.githubusercontent.com/115185834/205054103-176378a3-d84e-4f08-893f-766afdf4a121.png" width=70 height=80> <img src="https://user-images.githubusercontent.com/115185834/205057028-6a712813-dec3-4ee0-87c8-2f6849ee7407.png" width=70 height=60>
 
 ⚡️ **Currently** ⚡️
 
