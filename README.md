@@ -16,8 +16,9 @@ I'm Arun, a Big Data Analytics Student At IESEG School of Management in Lille.
 * :mortar_board:  Tableau Desktop Specialist Certified, PCEP - Certified Entry Level Python Programmer
 
 💡 **Languages & Tools:** 💡
-<img src="https://user-images.githubusercontent.com/115185834/205054069-7c5ef895-d746-416b-8abe-0a41798a5128.png" width=100 height=100>
-<img src="https://user-images.githubusercontent.com/115185834/205054103-176378a3-d84e-4f08-893f-766afdf4a121.png" width=100 height=100>
+
+<img src="https://user-images.githubusercontent.com/115185834/205054069-7c5ef895-d746-416b-8abe-0a41798a5128.png" width=80 height=50>
+<img src="https://user-images.githubusercontent.com/115185834/205054103-176378a3-d84e-4f08-893f-766afdf4a121.png" width=80 height=50>
 
 ⚡️ **Currently** ⚡️
 
